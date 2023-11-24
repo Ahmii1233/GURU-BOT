@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['923439458696', 'DARK', true],
+  ['923439458696', 'Ahmii', true], 
   [''] 
-] //Number of owners
++923439458696] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "+923439458696" //put your bot number here
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
@@ -50,8 +50,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
-global.premium = 'true'
+global.botname = 'DARK DEVIL'
+global.premium = 'false'
 global.packname = 'GURU┃ᴮᴼᵀ' 
 global.author = '@Asliguru' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
